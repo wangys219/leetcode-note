@@ -40,3 +40,10 @@
 | [645](https://leetcode.com/problems/set-mismatch/) | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [js](./Algorithms/js/SetMismatch/SetMismatch.js) | Easy |
 | [643](https://leetcode.com/problems/maximum-average-subarray-i/) | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [js](./Algorithms/js/MaximumAverageSubarrayI/MaximumAverageSubarrayI.js) | Easy |
 | [806](https://leetcode.com/problems/number-of-lines-to-write-string/) | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | [js](./Algorithms/js/NumberOfLinesToWriteString/NumberOfLinesToWriteString.js) | Easy |
+
+### Database
+
+|  #  | Title | Solution | Difficulty |
+| :-: | ----- | -------- | :--------: |
+| [175](https://leetcode-cn.com/classic/problems/combine-two-tables/) | [Combine Two Tables](https://leetcode-cn.com/classic/problems/combine-two-tables/) | [sql](./Database/CombineTwoTables/CombineTwoTables.sql) | Easy |
+| [176](https://leetcode-cn.com/problems/second-highest-salary/) | [SecondHighestSalary](https://leetcode-cn.com/problems/second-highest-salary/) | [sql](./Database/SecondHighestSalary/SecondHighestSalary.sql) | Easy |
