@@ -49,3 +49,4 @@
 | [176](https://leetcode-cn.com/problems/second-highest-salary/) | [SecondHighestSalary](https://leetcode-cn.com/problems/second-highest-salary/) | [sql](./Database/SecondHighestSalary/SecondHighestSalary.sql) | Easy |
 | [177](https://leetcode-cn.com/problems/nth-highest-salary/) | [NthHighestSalary](https://leetcode-cn.com/problems/nth-highest-salary/) | [sql](./Database/SecondHighestSalary/SecondHighestSalary.sql) | Medium |
 | [178](https://leetcode-cn.com/problems/rank-scores/) | [RankScores](https://leetcode-cn.com/problems/rank-scores/) | [sql](./Database/RankScores/RankScores.sql) | Medium |
+| [180](https://leetcode-cn.com/problems/consecutive-numbers/) | [ConsecutiveNumber](https://leetcode-cn.com/problems/consecutive-numbers/) | [sql](./Datebase/ConsecutiveNumbers/ConsecutiveNumbers.sql) | Medium |
