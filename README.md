@@ -60,6 +60,7 @@
 | [262](https://leetcode-cn.com/problems/trips-and-users/) | [TripsAndUsers](https://leetcode-cn.com/problems/trips-and-users/) | [sql](./Database/TripsAndUsers/TripsAndUsers.sql) | Hard |
 | [595](https://leetcode-cn.com/problems/big-countries/) | [BigCountries](https://leetcode-cn.com/problems/big-countries/) | [sql](./Database/BigCountries/BigCountries.sql) | Easy |
 | [596](https://leetcode-cn.com/problems/classes-more-than-5-students/) | [ClassesMoreThan5Students](https://leetcode-cn.com/problems/classes-more-than-5-students/) | [sql](./Database/ClassesMoreThan5Students/ClassesMoreThan5Students.sql) | Easy |
+| [601](https://leetcode-cn.com/problems/human-traffic-of-stadium/) | [HumanTrafficOfStadium](https://leetcode-cn.com/problems/human-traffic-of-stadium/) | [sql](./Database/HumanTrafficOfStadium/HumanTrafficOfStadium.sql) | Hard |
 | [620](https://leetcode-cn.com/problems/not-boring-movies/) | [NotBoringMovies](https://leetcode-cn.com/problems/not-boring-movies/) | [sql](./Database/NotBoringMovies/NotBoringMovies.sql) | Easy |
 | [626](https://leetcode-cn.com/problems/exchange-seats/) | [ExchangeSeats](https://leetcode-cn.com/problems/exchange-seats/) | [sql](./Database/ExchangeSeats/ExchangeSeats.sql) | Medium |
 | [627](https://leetcode-cn.com/problems/swap-salary/) | [SwapSalary](https://leetcode-cn.com/problems/swap-salary/) | [sql](./Database/SwapSalary/SwapSalary.sql) | Easy |
