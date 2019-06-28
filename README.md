@@ -64,3 +64,4 @@
 | [620](https://leetcode-cn.com/problems/not-boring-movies/) | [NotBoringMovies](https://leetcode-cn.com/problems/not-boring-movies/) | [sql](./Database/NotBoringMovies/NotBoringMovies.sql) | Easy |
 | [626](https://leetcode-cn.com/problems/exchange-seats/) | [ExchangeSeats](https://leetcode-cn.com/problems/exchange-seats/) | [sql](./Database/ExchangeSeats/ExchangeSeats.sql) | Medium |
 | [627](https://leetcode-cn.com/problems/swap-salary/) | [SwapSalary](https://leetcode-cn.com/problems/swap-salary/) | [sql](./Database/SwapSalary/SwapSalary.sql) | Easy |
+| [1050](https://leetcode-cn.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [ActorsandDirectorsWhoCooperatedAtLeastThreeTimes](https://leetcode-cn.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [sql](./Database/ActorsandDirectorsWhoCooperatedAtLeastThreeTimes/ActorsandDirectorsWhoCooperatedAtLeastThreeTimes.sql) | Easy |
