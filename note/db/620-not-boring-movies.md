@@ -1,0 +1,11 @@
+# 有趣的电影
+
+## mysql实现
+
+```
+select *
+from cinema
+where mod(id, 2) = 1
+and description != 'boring'
+order by rating desc
+```
