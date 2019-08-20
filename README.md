@@ -5,8 +5,18 @@
 | # | 题目 |
 |:-:| - |
 | [1](https://leetcode-cn.com/problems/two-sum/) | [两数之和](./note/algo/1-two-sum.md) |
+| [7](https://leetcode-cn.com/problems/reverse-integer/) | [整数反转](./note/algo/7-reverse-integer.md) |
+| [9](https://leetcode-cn.com/problems/palindrome-number/) | [回文数](./note/algo/9-palindrome-number.md) |
+| [13](https://leetcode-cn.com/problems/roman-to-integer/) | [罗马数字转整数](./note/algo/13-roman-to-integer.md) |
+| [14](https://leetcode-cn.com/problems/longest-common-prefix/) | [最长公共前缀](./note/algo/14-longest-common-prefix.md) |
+| [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](./note/algo/26-remove-duplicates-from-sorted-array.md) |
 | [33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [搜索旋转排序数组](./note/algo/33-search-in-rotated-sorted-array.md) |
+| [35](https://leetcode-cn.com/problems/search-insert-position/) | [搜索插入位置](./note/algo/35-search-insert-position.md) |
+| [38](https://leetcode-cn.com/problems/count-and-say/) | [报数](./note/algo/38-count-and-say.md) |
+| [53](https://leetcode-cn.com/problems/maximum-subarray/) | [最大子序和](./note/algo/53-maximum-subarray.md) |
+| [58](https://leetcode-cn.com/problems/length-of-last-word/) | [最后一个单词的长度](./note/algo/58-length-of-last-word.md) |
 | [69](https://leetcode-cn.com/problems/sqrtx/) | [x 的平方根](./note/algo/69-sqrtx.md) |
+| [70](https://leetcode-cn.com/problems/climbing-stairs/) | [爬楼梯](./note/algo/70-climbing-stairs.md) |
 | [100](https://leetcode-cn.com/problems/same-tree/) | [相同的树](./note/algo/100-same-tree.md) |
 | [107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [二叉树的层次遍历 II](./note/algo/107-binary-tree-level-order-traversal-ii.md) |
 | [108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [将有序数组转换为二叉搜索树](./note/algo/108-convert-sorted-array-to-binary-search-tree.md) |
