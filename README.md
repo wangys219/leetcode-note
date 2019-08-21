@@ -17,6 +17,8 @@
 | [58](https://leetcode-cn.com/problems/length-of-last-word/) | [最后一个单词的长度](./note/algo/58-length-of-last-word.md) |
 | [69](https://leetcode-cn.com/problems/sqrtx/) | [x 的平方根](./note/algo/69-sqrtx.md) |
 | [70](https://leetcode-cn.com/problems/climbing-stairs/) | [爬楼梯](./note/algo/70-climbing-stairs.md) |
+| [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [删除排序链表中的重复元素](./note/algo/83-remove-duplicates-from-sorted-list.md) |
+| [88](https://leetcode-cn.com/problems/merge-sorted-array/) | [合并两个有序数组](./note/algo/88-merge-sorted-array.md) |
 | [100](https://leetcode-cn.com/problems/same-tree/) | [相同的树](./note/algo/100-same-tree.md) |
 | [107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [二叉树的层次遍历 II](./note/algo/107-binary-tree-level-order-traversal-ii.md) |
 | [108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) | [将有序数组转换为二叉搜索树](./note/algo/108-convert-sorted-array-to-binary-search-tree.md) |
@@ -24,6 +26,18 @@
 | [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [二叉树的最小深度](./note/algo/111-minimum-depth-of-binary-tree.md) |
 | [119](https://leetcode-cn.com/problems/pascals-triangle-ii/) | [杨辉三角 II](./note/algo/119-pascals-triangle-ii.md) |
 | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](./note/algo/121-best-time-to-buy-and-sell-stock.md) |
+| [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [买卖股票的最佳时机 II](./note/algo/122-best-time-to-buy-and-sell-stock-ii.md) |
+| [157](https://leetcode-cn.com/problems/read-n-characters-given-read4/) | [用 Read4 读取 N 个字符](./note/algo/157-read-n-characters-given-read4.md) |
+| [160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [相交链表](./note/algo/160-intersection-of-two-linked-lists.md) |
+| [168](https://leetcode-cn.com/problems/excel-sheet-column-title/) | [Excel表列名称](./note/algo/168-excel-sheet-column-title.md) |
+| [169](https://leetcode-cn.com/problems/majority-element/) | [求众数](./note/algo/169-majority-element.md) |
+| [171](https://leetcode-cn.com/problems/excel-sheet-column-number/) | [Excel表列序号](./note/algo/171-excel-sheet-column-number.md) |
+| [172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [阶乘后的零](./note/algo/172-factorial-trailing-zeroes.md) |
+| [189](https://leetcode-cn.com/problems/rotate-array/) | [旋转数组](./note/algo/189-rotate-array.md) |
+| [190](https://leetcode-cn.com/problems/reverse-bits/) | [颠倒二进制位](./note/algo/190-reverse-bits.md) |
+| [191](https://leetcode-cn.com/problems/number-of-1-bits/) | [位1的个数](./note/algo/191-number-of-1-bits.md) |
+| [198](https://leetcode-cn.com/problems/house-robber/) | [打家劫舍](./note/algo/198-house-robber.md) |
+| [202](https://leetcode-cn.com/problems/happy-number/) | [快乐数](./note/algo/202-happy-number.md) |
 | [226](https://leetcode-cn.com/problems/invert-binary-tree/) | [翻转二叉树](./note/algo/226-invert-binary-tree.md) |
 | [561](https://leetcode-cn.com/problems/array-partition-i/) | [数组拆分 I](./note/algo/561-array-partition-i.md) |
 | [643](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [子数组最大平均数 I](./note/algo/643-maximum-average-subarray-i.md) |
