@@ -38,7 +38,9 @@
 | [191](https://leetcode-cn.com/problems/number-of-1-bits/) | [位1的个数](./note/algo/191-number-of-1-bits.md) |
 | [198](https://leetcode-cn.com/problems/house-robber/) | [打家劫舍](./note/algo/198-house-robber.md) |
 | [202](https://leetcode-cn.com/problems/happy-number/) | [快乐数](./note/algo/202-happy-number.md) |
+| [204](https://leetcode-cn.com/problems/count-primes/) | [计数质数](./note/algo/204-count-primes.md) |
 | [226](https://leetcode-cn.com/problems/invert-binary-tree/) | [翻转二叉树](./note/algo/226-invert-binary-tree.md) |
+| [231](https://leetcode-cn.com/problems/power-of-two/) | [2的幂](./note/algo/231-power-of-two.md) |
 | [561](https://leetcode-cn.com/problems/array-partition-i/) | [数组拆分 I](./note/algo/561-array-partition-i.md) |
 | [643](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [子数组最大平均数 I](./note/algo/643-maximum-average-subarray-i.md) |
 | [645](https://leetcode-cn.com/problems/set-mismatch/) | [错误的集合](./note/algo/645-set-mismatch.md) |
@@ -72,6 +74,9 @@
 | [784](https://leetcode-cn.com/problems/letter-case-permutation/) | [字母大小写全排列](./note/algo/784-letter-case-permutation.md) |
 | [796](https://leetcode-cn.com/problems/rotate-string/) | [旋转字符串](./note/algo/796-rotate-string.md) |
 | [1133](https://leetcode-cn.com/problems/largest-unique-number/) | [最大唯一数](./note/algo/1133-largest-unique-number.md) |
+| [1169](https://leetcode-cn.com/contest/weekly-contest-151/problems/invalid-transactions/) | [查询无效交易](./note/algo/1169-invalid-transactions.md) |
+| [1170](https://leetcode-cn.com/contest/weekly-contest-151/problems/compare-strings-by-frequency-of-the-smallest-character/) | [比较字符串最小字母出现频次](./note/algo/1170-compare-strings-by-frequency-of-the-smallest-character.md) |
+| [1171](https://leetcode-cn.com/contest/weekly-contest-151/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [从链表中删去总和值为零的连续节点](./note/algo/1171-remove-zero-sum-consecutive-nodes-from-linked-list.md) |
 
 ## 数据库
 | # | 题目 |
