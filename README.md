@@ -41,6 +41,12 @@
 | [204](https://leetcode-cn.com/problems/count-primes/) | [计数质数](./note/algo/204-count-primes.md) |
 | [226](https://leetcode-cn.com/problems/invert-binary-tree/) | [翻转二叉树](./note/algo/226-invert-binary-tree.md) |
 | [231](https://leetcode-cn.com/problems/power-of-two/) | [2的幂](./note/algo/231-power-of-two.md) |
+| [235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [二叉搜索树的最近公共祖先](./note/algo/235-lowest-common-ancestor-of-a-binary-search-tree.md) |
+| [237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [删除链表中的节点](./note/algo/237-delete-node-in-a-linked-list.md) |
+| [242](https://leetcode-cn.com/problems/valid-anagram/) | [有效的字母异位词](./note/algo/242-valid-anagram.md) |
+| [243](https://leetcode-cn.com/problems/shortest-word-distance/) | [最短单词距离](./note/algo/243-shortest-word-distance.md) |
+| [246](https://leetcode-cn.com/problems/strobogrammatic-number/) | [中心对称数](./note/algo/246-strobogrammatic-number.md) |
+| [252](https://leetcode-cn.com/problems/meeting-rooms/) | [会议室](./note/algo/252-meeting-rooms.md) |
 | [561](https://leetcode-cn.com/problems/array-partition-i/) | [数组拆分 I](./note/algo/561-array-partition-i.md) |
 | [643](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [子数组最大平均数 I](./note/algo/643-maximum-average-subarray-i.md) |
 | [645](https://leetcode-cn.com/problems/set-mismatch/) | [错误的集合](./note/algo/645-set-mismatch.md) |
